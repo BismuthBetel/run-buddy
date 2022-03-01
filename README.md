@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://bismuthbetel.github.io/run_buddy/
+https://github.com/BismuthBetel/run-buddy
 
 ## Contribution
 Made with ❤️ by Rebecca Holmberg
