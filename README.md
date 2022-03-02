@@ -12,3 +12,5 @@ https://github.com/BismuthBetel/run-buddy
 
 ## Contribution
 Made with ❤️ by Rebecca Holmberg
+
+### ©️2019 Run Buddy, Inc
